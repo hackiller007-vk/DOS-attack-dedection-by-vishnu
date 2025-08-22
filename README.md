@@ -8,7 +8,11 @@ as this is half completed : we can just copy and unzip it in lynux and use it by
 
 proof of image and video 
 
-https://github.com/user-attachments/assets/demo dedection page
+
+https://github.com/user-attachments/assets/40cd862f-5881-43f2-80eb-9e44dacfcda7
+
+
+
 
 <img width="1920" height="1080" alt="Screenshot 2025-08-22 230621" src="https://github.com/user-attachments/assets/2a435d0e-0a96-4bc2-b2fe-0b51b4a67cc3" />
 
